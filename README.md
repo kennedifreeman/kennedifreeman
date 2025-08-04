@@ -3,6 +3,7 @@
 <h2>💻 IT Projects:</h2>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+ISC2 CC- Certified in Cybersecurity
 
 <h2>📋 Certifications:</h2>
 
