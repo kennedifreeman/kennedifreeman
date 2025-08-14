@@ -2,7 +2,7 @@
 
 <h2>💻 IT Projects:</h2>
 - [Active Directory Lab](https://github.com/kennedifreeman/ActiveDirectoryLab)
-
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
