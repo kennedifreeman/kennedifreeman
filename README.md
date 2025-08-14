@@ -10,7 +10,9 @@
 
 <h2>📋 Certifications:</h2>
 
-- [ISC2 CC- Certified in Cybersecurity] (https://www.linkedin.com/posts/kennedi-freeman_cc-certificate-activity-7345971754122534914-SqpY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADddbg8BYfCJ7sukQLcZlJCE9fE34KnZEeM)
+- [ISC2 CC- Certified in Cybersecurity](https://www.linkedin.com/posts/kennedi-freeman_cc-certificate-activity-7345971754122534914-SqpY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADddbg8BYfCJ7sukQLcZlJCE9fE34KnZEeM)
+
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
