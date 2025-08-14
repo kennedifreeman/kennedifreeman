@@ -2,7 +2,7 @@
 
 <h2>💻 IT Projects:</h2>
 
--[Active Directory Lab - ServerAcademy](https://github.com/kennedifreeman/ActiveDirectoryLab)
+- [Active Directory Lab - ServerAcademy](https://github.com/kennedifreeman/ActiveDirectoryLab)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
