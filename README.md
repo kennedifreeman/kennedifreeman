@@ -2,13 +2,14 @@
 
 <h2>💻 IT Projects:</h2>
 
--[Active Directory](https://github.com/kennedifreeman/ActiveDirectoryLab)
+-[Active Directory Lab - ServerAcademy](https://github.com/kennedifreeman/ActiveDirectoryLab)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
 <h2>📋 Certifications:</h2>
+
 - [ISC2 CC- Certified in Cybersecurity] (https://www.linkedin.com/posts/kennedi-freeman_cc-certificate-activity-7345971754122534914-SqpY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADddbg8BYfCJ7sukQLcZlJCE9fE34KnZEeM)
 <h2>📺 Popular YouTube Videos</h2>
 
