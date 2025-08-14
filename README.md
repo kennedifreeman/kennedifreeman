@@ -1,7 +1,8 @@
 <h1>Hi, I'm Kennedi Freeman! <br/><a href="https://github.com/joshmadakor1">IT </a>/ <a href="https://www.linkedin.com/in/kennedi-freeman/">Cybersecurity Professional</a> 
 
 <h2>💻 IT Projects:</h2>
-- [Active Directory Lab]()
+- [Active Directory Lab](https://github.com/kennedifreeman/ActiveDirectoryLab)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
