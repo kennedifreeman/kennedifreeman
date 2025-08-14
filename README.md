@@ -1,8 +1,9 @@
 <h1>Hi, I'm Kennedi Freeman! <br/><a href="https://github.com/joshmadakor1">IT </a>/ <a href="https://www.linkedin.com/in/kennedi-freeman/">Cybersecurity Professional</a> 
 
 <h2>💻 IT Projects:</h2>
-- [Active Directory Lab](https://github.com/kennedifreeman/ActiveDirectoryLab)
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- Active Directory Lab(https://github.com/kennedifreeman/ActiveDirectoryLab)
+[Active Directory](https://github.com/kennedifreeman/ActiveDirectoryLab)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
