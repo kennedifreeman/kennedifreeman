@@ -17,7 +17,6 @@
 
 - [<img align="left" alt="KennediFreeman | LinkedIn" width="22px" src="https://www.linkedin.com/in/kennedi-freeman/" />][linkedin]
 
-[youtube]: https://www.youtube.com/@KennediFreeman
 [linkedin]: https://www.linkedin.com/in/kennedi-freeman/
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
