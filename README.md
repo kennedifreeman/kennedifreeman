@@ -5,7 +5,8 @@
 <h2>💻 IT Projects:</h2>
 
 - [Active Directory Lab - ServerAcademy](https://github.com/kennedifreeman/ActiveDirectoryLab)
-- [Installing AD DS Server Role Lab- ServerAcademy](https://github.com/kennedifreeman/Installing-ADDS-Server-Role-Lab) 
+- [Installing AD DS Server Role Lab- ServerAcademy](https://github.com/kennedifreeman/Installing-ADDS-Server-Role-Lab)
+- [HelpDesk Simulation]
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
