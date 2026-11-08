@@ -1,12 +1,11 @@
 <h1>Hi, I'm Kennedi Freeman! <br/><a href="https://github.com/joshmadakor1">IT </a>/ <a href="https://www.linkedin.com/in/kennedi-freeman/">Cybersecurity Professional</a> 
 
-<h2> Networking Labs:</h2>
-
-<h2>💻 IT Projects:</h2>
+<h2>💻 IT Projects & Labs:</h2>
 
 - [Active Directory Lab - ServerAcademy](https://github.com/kennedifreeman/ActiveDirectoryLab)
 - [Installing AD DS Server Role Lab- ServerAcademy](https://github.com/kennedifreeman/Installing-ADDS-Server-Role-Lab)
 - [HelpDesk Simulation](https://github.com/kennedifreeman/HelpDesk-Lab01)
+- [Network Connectivity & DNS Resolution Lab](https://github.com/kennedifreeman/Lab-01-Network-Connectivity-and-DNS-Troubleshooting)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
