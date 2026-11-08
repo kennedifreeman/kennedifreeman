@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kennedi Freeman! <br/><a href="https://github.com/joshmadakor1">IT </a>/ <a href="https://www.linkedin.com/in/kennedi-freeman/">Professional</a> 
+<h1>Hi, I'm Kennedi Freeman! <br/><a href="https://www.linkedin.com/in/kennedi-freeman/">IT Professional</a> 
 
 <h2>💻 IT Projects & Labs:</h2>
 
