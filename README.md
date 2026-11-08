@@ -6,7 +6,7 @@
 
 - [Active Directory Lab - ServerAcademy](https://github.com/kennedifreeman/ActiveDirectoryLab)
 - [Installing AD DS Server Role Lab- ServerAcademy](https://github.com/kennedifreeman/Installing-ADDS-Server-Role-Lab)
-- [HelpDesk Simulation]
+- [HelpDesk Simulation](https://github.com/kennedifreeman/HelpDesk-Lab01)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
