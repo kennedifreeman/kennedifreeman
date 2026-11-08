@@ -8,8 +8,6 @@
 - [Network Connectivity & DNS Resolution Lab](https://github.com/kennedifreeman/Lab-01-Network-Connectivity-and-DNS-Troubleshooting)
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
 
 <h2>📋 Certifications:</h2>
 
